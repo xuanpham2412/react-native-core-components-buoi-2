@@ -12,4 +12,4 @@
 
 ## Kết quả chạy ứng dụng
 
-![Kết quả chạy](ketqua.png)
+![Kết quả chạy](ketqua.jpg)
